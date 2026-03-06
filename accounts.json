@@ -1,0 +1,19 @@
+{
+  "$type": "MyBankApp.BankData, NEW",
+  "allAccounts": {
+    "$type": "System.Collections.Generic.List`1[[MyBankApp.BankAccount, NEW]], System.Private.CoreLib",
+    "$values": []
+  },
+  "userAccounts": {
+    "$type": "System.Collections.Generic.List`1[[MyBankApp.BankAccount, NEW]], System.Private.CoreLib",
+    "$values": []
+  },
+  "currentAccounts": {
+    "$type": "System.Collections.Generic.List`1[[MyBankApp.BankAccount, NEW]], System.Private.CoreLib",
+    "$values": []
+  },
+  "savingsAccounts": {
+    "$type": "System.Collections.Generic.List`1[[MyBankApp.BankAccount, NEW]], System.Private.CoreLib",
+    "$values": []
+  }
+}
